@@ -139,3 +139,72 @@ Alright, let's extend our house analogy for the next set of terms:
 
 66. **Infrastructure**: It's the foundation, pillars, and beams of your house, providing the basic structure upon which everything else is built. In IT, infrastructure comprises the physical and virtual resources supporting the software application.
 
+67. **Rollback**: Imagine repainting your room and realizing you don't like the new color. You then decide to revert to the old color. Similarly, in software, a rollback is the process of reverting to a previous version after encountering issues with the new release.
+
+68. **Immutable Infrastructure**: Think of having rooms in your house designed to be non-modifiable. If you want changes, instead of altering the existing room, you'd build a new one. In the tech realm, immutable infrastructure means once a component is deployed, it isn't altered; instead, new versions are recreated from a base image.
+
+69. **Monitoring**: This is akin to security cameras in your house, always keeping an eye on what's happening, ensuring everything is safe and functioning. In IT, monitoring tools keep track of systems, ensuring they are performing well and catching issues before they escalate.
+
+70. **Logs**: Imagine maintaining a detailed diary of all activities in your house: when the lights were turned on, when the doors were opened, etc. Similarly, logs in software capture specific activities or events, helping developers understand system behavior and troubleshoot issues.
+
+71. **Metrics**: Metrics are like the measurements and statistics of your house, such as electricity usage, water consumption, or temperature variation. In technology, metrics provide numerical data about system performance, usage, or behavior.
+
+72. **Notifications**: This can be likened to an alarm system in your house, alerting you if a window breaks or if there's smoke. In the digital context, notifications inform teams about critical events, issues, or milestones.
+
+73. **Pipeline**: Imagine a conveyor belt bringing in materials and tools needed for constructing or renovating a house in a specific sequence. In DevOps, a pipeline is a set of automated processes that guide code from development to deployment.
+
+74. **Scalability**: Consider designing your house to easily add more rooms or floors when needed. Scalability in tech ensures that a system can handle increased load or demand by adding resources.
+
+75. **Statelessness**: Picture rooms in your house that reset to a default setting every time you leave, not retaining any specific changes you made. Stateless systems, similarly, don't store session information but process each request as if it's the first.
+
+76. **Configuration Management**: It's like having a manual for your house detailing how each room should be set up, the color of walls, the type of furniture, etc. In IT, configuration management ensures systems are consistently set up and maintained as per the defined standards.
+
+77. **IaaS (Infrastructure as a Service)**: Imagine instead of owning a house, you rent it and its foundational services (like plumbing or electrical), but the decoration and furnishing are up to you. IaaS provides virtualized computing resources over the internet, letting users rent IT infrastructure on a pay-as-you-go basis.
+
+78. **PaaS (Platform as a Service)**: Building on the rental analogy, PaaS would be like renting a furnished house where foundational services, decorations, and furniture are provided, but what you do within the space is your choice. PaaS provides a platform allowing customers to develop, run, and manage applications without the intricacies of building and maintaining the infrastructure.
+
+79. **SaaS (Software as a Service)**: Continuing with our housing analogy, SaaS is like booking a hotel room. Everything you need is provided, from furniture to toiletries. You just use it without worrying about maintenance. Similarly, SaaS delivers software applications over the internet, eliminating the need for users to install or maintain them on individual computers.
+
+80. **Cloud-native**: Think of a house specifically designed to harness natural elements efficiently, like solar panels for energy or rainwater harvesting. Cloud-native applications are explicitly designed to thrive in cloud environments, taking full advantage of cloud architectures.
+Certainly, let's press on with our house-based analogy for the next set of DevOps terms:
+
+81. **Docker**: Picture a special container where you can pack a room's essentials - furniture, décor, electronics - in such a way that it can be set up identically in any house. In technology, Docker provides containers that package software with all its dependencies, ensuring it runs uniformly across any environment.
+
+82. **Containers**: Extending the previous analogy, think of these as modular rooms that you can rapidly assemble, move, or replace within a house. In the tech landscape, containers encapsulate an application and its environment, making deployments more efficient and consistent.
+
+83. **Provisioning**: This is like preparing a room for a specific purpose. For a nursery, you'd bring in a crib, baby-safe furniture, toys, etc. In IT, provisioning involves setting up IT infrastructure and resources to meet specific requirements.
+
+84. **Incident Management**: Consider a situation where a pipe bursts in your house. You have a protocol: turn off the main water supply, call a plumber, clean up. Similarly, incident management in IT refers to the process of handling unexpected disruptions, ensuring they're resolved efficiently.
+
+85. **SLA (Service Level Agreement)**: Imagine hiring a gardener with a clear understanding: they'll trim the lawn every week and tend to plants daily. If they fail, they'll face penalties. An SLA in the digital realm is a contract between service providers and users detailing the expected service standards.
+
+86. **Continuous Feedback**: Picture living in a house where, after making any change – say, rearranging furniture – family members provide immediate feedback, helping in continuous improvement. In DevOps, continuous feedback ensures that developers and operations get timely insights about their work's impact, fostering constant enhancement.
+
+87. **Virtualization**: It's like having a holographic system in your house that can simulate multiple room layouts within one physical space, allowing you to experience different setups without physical changes. Virtualization in tech lets one physical server run several virtual machines, maximizing resource utilization.
+
+88. **Network Topology**: Think of this as the blueprint of your house's wiring and plumbing, showing how different rooms connect and interact. In IT, network topology refers to the arrangement of different elements (links, nodes, etc.) in a computer network.
+
+89. **Version Control**: Imagine a system in your house that snapshots every change you make, from paint color to furniture arrangement. If you don't like a change, you revert to a previous snapshot. Version control in software keeps track of changes to code, allowing teams to revisit and restore earlier versions.
+
+90. **Incident Response**: If the security system in your house detects a break-in, you might have a plan: alert the police, inform neighbors, check the CCTV. In IT, incident response outlines the steps to take after a security breach or any unwanted event.
+
+91. **Endpoint Security**: It's like having advanced locks, alarms, and sensors on every door and window of your house, ensuring every access point is secure. Endpoint security in IT aims to protect a network by ensuring all endpoints (devices) are securely configured and monitored.
+
+92. **Rate Limiting**: Imagine a faucet in your house that's designed to release only a specific amount of water per minute, preventing wastage or overflow. Rate limiting in IT ensures a particular service isn't overwhelmed by restricting the number of requests users can make in a specified timeframe.
+
+93. **Service Discovery**: Consider a smart system in your house that automatically detects and integrates new devices or systems, like when you buy a new smart fridge or TV. In microservices, service discovery is a mechanism allowing services to find and communicate with each other.
+
+94. **Dependency Management**: It's like understanding that before you set up the TV in your living room, you need a wall bracket, the right cables, and perhaps a streaming device. In software, dependency management ensures that all components a program relies upon are available and updated.
+
+95. **Latency Monitoring**: Picture a system in your house that measures the time it takes for your voice command to reach a smart device and get a response. In the digital domain, latency monitoring gauges the delay between a user's action and the system's response.
+
+96. **Middleware**: Think of it as the electrical circuits between switches and appliances in your house, facilitating their interaction. Middleware in IT is software that acts as a bridge between an operating system or database and applications, especially on a network.
+
+97. **Rolling Deployment**: Visualize renovating your house room by room, ensuring you always have livable space. Rolling deployment gradually replaces instances of the old version with the new, ensuring continuous operation.
+
+98. **Edge Computing**: Imagine having mini-computers in every device in your house, processing data right there instead of sending it to a central system. Edge computing processes data closer to where it's generated, like in IoT devices.
+
+99. **High Availability**: Consider having backup systems for electricity, water, and heating in your house, ensuring you always have access even if one fails. High availability in tech ensures systems are always operational, minimizing downtime.
+
+100. **Elasticity**: Picture walls in your house that automatically expand or contract based on the number of people inside. In cloud computing, elasticity refers to the ability to easily scale up or down resources based on demand.
+
