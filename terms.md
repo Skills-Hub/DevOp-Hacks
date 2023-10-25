@@ -105,4 +105,37 @@ Sure, let's continue breaking down more terms through our house analogy:
 49. **Automation**: Imagine a house where the lights turn off when everyone leaves, the temperature self-adjusts based on weather, and the garden waters itself. All these tasks happen without manual intervention. Similarly, automation in IT involves making systems self-reliant, reducing human input.
 
 50. **Unit Testing**: Before installing a new chandelier in your living room, you'd first test if it lights up correctly and if its fixtures work. Similarly, unit testing in software checks individual parts (or "units") of code to ensure they work as intended.
+Alright, let's extend our house analogy for the next set of terms:
+
+51. **Integration Testing**: After separately testing the electricals of the chandelier and the room's switch, you'd check if the chandelier lights up when the switch is flipped. Integration testing in software ensures that separate units or components work harmoniously when integrated.
+
+52. **Blue-Green Deployment**: Imagine having two identical versions of your house. You live in the blue one, while the green one undergoes renovations. Once the green one is ready and ensured stable, you move in, making it the new blue house. This strategy in tech involves running two environments to reduce downtime and risk during deployments.
+
+53. **Manual Testing**: It's like walking through different rooms of the house, checking each light, faucet, and appliance by hand to ensure everything's functioning. Similarly, manual testing in software involves human testers going through application features without automation.
+
+54. **Performance Testing**: Consider inviting a group of friends to your house to see how well the plumbing or air conditioning handles the extra load. In the tech world, performance testing checks how software behaves under load or stress conditions.
+
+55. **Agile**: Think of constructing your house in small phases, first building a livable section, then expanding room by room, based on feedback and evolving requirements. Agile is a methodology that promotes iterative development, frequent releases, and adaptability.
+
+56. **Scrum**: Using the Agile analogy, imagine weekly meetings where the family discusses what part of the house to build next, what resources are needed, and timelines. Scrum is a framework within Agile that organizes work into sprints with regular planning and review sessions.
+
+57. **Kanban**: Visualize a board in your house where you pin tasks like "fix the kitchen sink" or "paint the bedroom wall," moving them across columns like "To Do," "In Progress," and "Done." Kanban is a visual workflow tool, often used in Agile, to manage tasks and their stages.
+
+58. **Latency**: It's the time taken from when you switch on a light to when it actually illuminates. In the digital domain, latency refers to the delay between a request and a response.
+
+59. **Server**: Imagine a central utility room in your house supplying electricity, water, and heating to all rooms. In tech, a server provides services, resources, or data to other computers or clients.
+
+60. **Client**: Going by the previous analogy, if the utility room is the server, then each room utilizing the services is a client. In IT, a client is a computer or software that requests services or resources from a server.
+
+61. **SSH (Secure Shell)**: Picture a highly secure, special door to your house that only you can access using a unique key. SSH is a cryptographic network protocol for operating network services securely over an unsecured network.
+
+62. **Build**: When you decide to add a room or feature to your house, the construction phase where everything comes together is the build. In software, the build process compiles and assembles code into executable artifacts.
+
+63. **Release**: Once the new room in your house is complete, furnished, and ready to be used, it's released for use. Similarly, a software release signifies that a particular version of the software application is ready for users.
+
+64. **Feature Flags**: Think of installing adjustable shutters on your windows, allowing you to control how much sunlight enters. You can gradually open them for one room, test, and adjust for others. Feature flags in tech let developers enable or disable specific functionalities without deploying new code.
+
+65. **A/B Testing**: Imagine having two designs for your living room. You try out the first design for a week, then the second, comparing which one the family prefers. A/B Testing in digital platforms involves showing two versions to users and collecting data to decide the better performer.
+
+66. **Infrastructure**: It's the foundation, pillars, and beams of your house, providing the basic structure upon which everything else is built. In IT, infrastructure comprises the physical and virtual resources supporting the software application.
 
